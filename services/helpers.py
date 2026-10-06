@@ -51,5 +51,5 @@ def find_user_by_username(username):
         session.close()
 
 def is_logist(telegram_id):
-    """Логист - из config.py ИЛИ из таблицы logists."""
+    """Логист - из config.py"""
     return telegram_id in LOGIST_IDS

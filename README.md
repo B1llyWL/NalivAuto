@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram">
   <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
   <img src="https://img.shields.io/badge/pythonanywhere-FFD700?style=for-the-badge&logo=pythonanywhere&logoColor=black" alt="pythonanywhere.com">
+  <img src="https://img.shields.io/badge/cronjob-DC382D?style=for-the-badge&logo=cronjob&logoColor=white" alt="cron-job.org">
 </p>
 
 <p align="center">

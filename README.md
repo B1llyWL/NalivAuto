@@ -55,7 +55,7 @@
   <li><code>/who</code> – select a role within the group (so that the driver remembers the driver as a driver)
   (manually)</li>
   <li><code>/groups</code> – list of connected groups</li>
-  <li><code>/driver</code> – assign a driver: VEHICLE @user</li>
+  <li><code>/driver</code> – assign a driver: VEHICLE @user (manually)</li> 
   <li><code>/broadcast</code> – mailing: HH:MM text (UTC +3)</li>
   <li><code>/delroute</code> – delete a flight by number</li>
   <li><code>/routes</code> – list of routes</li>

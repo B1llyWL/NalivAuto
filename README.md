@@ -61,6 +61,7 @@
   <li><code>/routes</code> – list of routes</li>
   <li><code>/route</code> – trip: date:time:vehicle:route:offset</li>
 </ul>
+<p>*By "manual," it is meant that these actions already take place automatically, without the need for commands.</p>
 
 <h2>🚀 How to Use</h2>
 
